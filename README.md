@@ -1,4 +1,4 @@
-# Please direct all Support Questions and Concerns to Support@PubNub.com
+# Please direct all Support Questions and Concerns to support@pubnub.com
 
 ##PubNub C-sharp-based APIs
 Learn more at http://www.pubnub.com
